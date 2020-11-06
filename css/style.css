@@ -1,0 +1,144 @@
+/*
+*{
+	margin:0;
+	padding:0;
+	#fbbc04
+}
+*/
+
+h2{
+	color: tan;
+	font style: arial; size: 16pt;
+	text-decoration: underline;
+}
+h3{
+	color: blue;
+}
+p{
+	font-size: 15pt;
+	color: red;
+
+}
+ol{
+	font-family: arial;
+}
+html{
+	background:#FAD7A0 ;
+}
+a{
+	color: purple;
+}
+
+table, td {
+	border: 1px solid black;
+	padding: 5px;
+
+margin:0; 
+}
+
+.container{
+
+}
+.box-1{
+	background-color: #333;
+	color: #fff;
+	border: 5px red solid;
+	padding: auto;
+	padding-left: 4px;
+	margin-top:0px;
+	display: block;
+} 
+
+
+.box-1 nav{
+	word-spacing: 0.5em;
+}
+
+.box-1:hover{
+	background-color: yellow;
+}
+
+}
+
+.box-3{
+	background-color: #333;
+	color: #fff;
+	border: 5px red solid;
+	padding: auto;
+	padding-left: 4px;
+	margin-top:0px;
+}
+
+.box-3:hover{
+	background-color: yellow;
+}
+
+.box-1 h2{
+	font-family: Tahoma;
+	font-weight: 800;
+	text-decoration: underline;
+	letter-spacing: 0.2em;
+	word-spacing: 0.5em;
+}
+
+
+.box-2 h3{
+	text-decoration: underline;
+	text-align: center;
+}
+
+form{
+	background-color:gray;
+	padding: 15px;
+	font-style: italic;
+	border-radius: 15px;
+	border: solid;
+	font-weight: 900px
+
+}
+input[type=button]:hover {
+	border: solid;
+	background-color: green;
+	color: black;
+	padding: 5px; 
+}
+input[type=text]:hover{
+	background-color: yellow;
+	color: black;
+}
+form h3{
+margin: auto;
+text-align: center;
+font-style: normal;
+word-spacing: .2em;
+text-decoration: underline;
+}
+
+.p-box{
+	margin-top: 20px;
+	margin-bottom: 23em;
+	position: relative;
+}
+
+.p-box img{
+	position: absolute;
+
+	left: 850px;
+}
+
+.p-box h3{
+	text-align: center;
+}
+
+.fix-me{
+	position: fixed;
+	top: 400px;
+	left: 3px;
+	border-style: double;
+}
+
+.my-form label{
+	display: block;
+
+
+}
